@@ -1,2 +1,3 @@
 Logo:
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/d044e298-66fa-452b-9484-e7e2ffb371a8" />
+
+![logo sq c](https://github.com/user-attachments/assets/9f2953c6-bfec-4e42-8c32-71fc8518de0b)
